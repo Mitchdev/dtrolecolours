@@ -5,20 +5,20 @@ ul.avatar-list li.creator p {
   color: #fdfd0d !important;
 }
 ul.avatar-list li.co-owner p {
-  color: #75d420;
+  color: #75d420 !important;
 }
 ul.avatar-list li.manager p {
-  color: #ff333b;
+  color: #ff333b !important;
 }
 ul.avatar-list li.mod p {
-  color: #7e40c4;
+  color: #7e40c4 !important;
 }
 ul.avatar-list li.vip p {
-  color: #005dcc;
+  color: #005dcc !important;
 }
 ul.avatar-list li.resident-dj p {
-  color: #ff8400;
+  color: #ff8400 !important;
 }
 ul.avatar-list li.currentDJ p {
-  color: #ff00ff;
+  color: #ff00ff !important;
 }
