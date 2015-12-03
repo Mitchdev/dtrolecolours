@@ -22,3 +22,9 @@ ul.avatar-list li.resident-dj p {
 ul.avatar-list li.currentDJ p {
   color: #ff00ff !important;
 }
+ul.avatar-list li p.username:after {
+  color: #878c8e !important;
+}
+ul.avatar-list li p.dubs:before {
+  color: #878c8e !important;
+}
