@@ -1,1 +1,24 @@
-
+ul.avatar-list li.admin p {
+  color: #00ffff !important;
+}
+ul.avatar-list li.creator p {
+  color: #fdfd0d !important;
+}
+ul.avatar-list li.co-owner p {
+  color: #75d420;
+}
+ul.avatar-list li.manager p {
+  color: #ff333b;
+}
+ul.avatar-list li.mod p {
+  color: #7e40c4;
+}
+ul.avatar-list li.vip p {
+  color: #005dcc;
+}
+ul.avatar-list li.resident-dj p {
+  color: #ff8400;
+}
+ul.avatar-list li.currentDJ p {
+  color: #ff00ff;
+}
