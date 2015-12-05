@@ -1,4 +1,3 @@
 .mid .larger .controls .textarea {
-  overflow-y: hidden;
   resize: vertical;
 }
